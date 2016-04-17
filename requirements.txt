@@ -1,0 +1,10 @@
+npm install node-dir
+npm install fluent-ffmpeg
+sudo apt-get install nodejs
+sudo apt-get install -y nodejs
+
+https://github.com/fshost/node-dir
+http://outlandish.com/blog/inspect-video-orientation-using-node-fluent-ffmpeg-exiftool-or-mediainfo/
+https://github.com/fluent-ffmpeg/node-fluent-ffmpeg
+
+
